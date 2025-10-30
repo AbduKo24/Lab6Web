@@ -391,3 +391,4 @@ $(document).ready(function () {
 });
 
 #Output
+<img width="1030" height="824" alt="Screenshot 2025-10-30 144902" src="https://github.com/user-attachments/assets/e149d236-4a91-4b5c-95cd-2f2c0334d66d" />
